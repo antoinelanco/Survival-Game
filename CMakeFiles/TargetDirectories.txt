@@ -1,0 +1,3 @@
+/home/lanco/Shared/Projet/Survival-Game/CMakeFiles/mon-projet.dir
+/home/lanco/Shared/Projet/Survival-Game/CMakeFiles/edit_cache.dir
+/home/lanco/Shared/Projet/Survival-Game/CMakeFiles/rebuild_cache.dir
