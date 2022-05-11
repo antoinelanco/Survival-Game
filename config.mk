@@ -1,5 +1,5 @@
 # Project version
-NAME    = prog
+NAME    = prog.out
 VERSION = 0.0.1
 
 # Paths
